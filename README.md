@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm okunosh</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
-- 🔭 I’m a student of **graduate school student of Kyoto Sangyo University**
+- 🔭 I’m a student of **graduate school of Kyoto Sangyo University**
 
 - 🌱 I’m currently learning **Python, PHP, Laravel, HTML, CSS**
 
-- 👯 I’m interested in **developing apps**
+- 👯 I’m interested in **developing apps** to make our lives better.
 
 - 📫 How to reach me **i2485021@cc.kyoto-su.ac.jp**
 
