@@ -3,7 +3,7 @@
 
 - 🔭 I’m a student of **graduate school of Kyoto Sangyo University**
 
-- 🌱 I’m currently learning **Python, PHP, Laravel, HTML, CSS**
+- 🌱 I’m currently learning **PHP, Laravel, HTML, CSS**
 
 - 👯 I’m interested in **developing apps** to make our lives better.
 
